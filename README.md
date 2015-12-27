@@ -4,7 +4,7 @@ This repository contains the weekly MATLAB assignments that I did in [Machine Le
 
 Comments/issues/PRs are welcomed!
 
-### Week 1
+### Exercise 1 in Week 2
 
 Part Name |     Score | Feedback
 :---:|:---:|:---:|
