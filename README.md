@@ -17,6 +17,10 @@ Gradient Descent (for Multiple Variables) |   0 /   0 | Nice work!
 Normal Equations |   0 /   0 | Nice work!
                  | 100 / 100 |
 
-### Exercise 2 to 8
+### Exercise 2 in Week 3
+
+*in progress*
+
+### Exercise 3 to 8
 
 *unstarted*
