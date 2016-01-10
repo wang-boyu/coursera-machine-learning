@@ -1,4 +1,4 @@
-# coursera-machine-learning ![Progress](http://progressed.io/bar/25)
+# coursera-machine-learning ![Progress](http://progressed.io/bar/38)
 
 This repository contains the weekly MATLAB assignments that I did in [Machine Learning](https://www.coursera.org/learn/machine-learning/) course in Coursera.
 
@@ -29,6 +29,16 @@ Regularized Logistic Regression Cost |  15 /  15 | Nice work!
 Regularized Logistic Regression Gradient |  15 /  15 | Nice work!
                                          | 100 / 100 |
 
-### Exercise 3 to 8
+### Exercise 3 in Week 4
+
+Part Name |     Score | Feedback
+:---:|:---:|:---:|
+Regularized Logistic Regression |  30 /  30 | Nice work!
+One-vs-All Classifier Training |  20 /  20 | Nice work!
+One-vs-All Classifier Prediction |  20 /  20 | Nice work!
+Neural Network Prediction Function |  30 /  30 | Nice work!
+                                   | 100 / 100 |
+
+### Exercise 4 to 8
 
 *unstarted*
