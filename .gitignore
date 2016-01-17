@@ -1,3 +1,4 @@
 *token.mat*
+*.DS_Store*
 ./.*
 !./.gitignore
