@@ -1,4 +1,4 @@
-# coursera-machine-learning ![Progress](http://progressed.io/bar/38)
+# coursera-machine-learning ![Progress](http://progressed.io/bar/50)
 
 This repository contains the weekly MATLAB assignments that I did in [Machine Learning](https://www.coursera.org/learn/machine-learning/) course in Coursera.
 
@@ -39,6 +39,17 @@ One-vs-All Classifier Prediction |  20 /  20 | Nice work!
 Neural Network Prediction Function |  30 /  30 | Nice work!
                                    | 100 / 100 |
 
-### Exercise 4 to 8
+### Exercise 4 in Week 5
+
+Part Name |     Score | Feedback
+:---:|:---:|:---:
+Feedforward and Cost Function |  30 /  30 | Nice work!
+Regularized Cost Function |  15 /  15 | Nice work!
+Sigmoid Gradient |   5 /   5 | Nice work!
+Neural Network Gradient (Backpropagation) |  40 /  40 | Nice work!
+Regularized Gradient |  10 /  10 | Nice work!
+                                 | 100 / 100 |
+
+### Exercise 5 to 8
 
 *unstarted*
