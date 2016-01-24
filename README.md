@@ -1,4 +1,4 @@
-# coursera-machine-learning ![Progress](http://progressed.io/bar/50)
+# coursera-machine-learning ![Progress](http://progressed.io/bar/63)
 
 This repository contains the weekly MATLAB assignments that I did in [Machine Learning](https://www.coursera.org/learn/machine-learning/) course in Coursera.
 
@@ -50,6 +50,17 @@ Neural Network Gradient (Backpropagation) |  40 /  40 | Nice work!
 Regularized Gradient |  10 /  10 | Nice work!
                                  | 100 / 100 |
 
-### Exercise 5 to 8
+### Exercise 5 in Week 6
+
+Part Name |     Score | Feedback
+:---:|:---:|:---:
+Regularized Linear Regression Cost Function |  25 /  25 | Nice work!
+Regularized Linear Regression Gradient |  25 /  25 | Nice work!
+Learning Curve |  20 /  20 | Nice work!
+Polynomial Feature Mapping |  10 /  10 | Nice work!
+Validation Curve |  20 /  20 | Nice work!
+                             | 100 / 100 |
+
+### Exercise 6 to 8
 
 *unstarted*
