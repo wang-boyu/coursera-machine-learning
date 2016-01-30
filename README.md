@@ -1,4 +1,4 @@
-# coursera-machine-learning ![Progress](http://progressed.io/bar/63)
+# coursera-machine-learning ![Progress](http://progressed.io/bar/75)
 
 This repository contains the weekly MATLAB assignments that I did in [Machine Learning](https://www.coursera.org/learn/machine-learning/) course in Coursera.
 
@@ -61,6 +61,17 @@ Polynomial Feature Mapping |  10 /  10 | Nice work!
 Validation Curve |  20 /  20 | Nice work!
                              | 100 / 100 |
 
-### Exercise 6 to 8
+### Exercise 6 in Week 7
+
+Part Name |     Score | Feedback
+:---:|:---:|:---:
+Gaussian Kernel |  25 /  25 | Nice work!
+Parameters (C, sigma) for Dataset 3 |  25 /  25 | Nice work!
+Email Preprocessing |  25 /  25 | Nice work!
+Email Feature Extraction |  25 /  25 | Nice work!
+                         | 100 / 100 |
+
+
+### Exercise 7 to 8
 
 *unstarted*
