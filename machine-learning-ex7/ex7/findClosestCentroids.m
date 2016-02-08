@@ -19,13 +19,12 @@ idx = zeros(size(X,1), 1);
 %               range 1..K
 %
 % Note: You can use a for-loop over the examples to compute this.
-%
 
-
-
-
-
-
+for i = 1:size(X,1)
+    temp = repmat(X(i,:),K,1) - centroids;
+    [dummy, index] = min(sum(temp.^2,2));
+    idx(i) = index;
+end
 
 % =============================================================
 

@@ -1,4 +1,4 @@
-# coursera-machine-learning ![Progress](http://progressed.io/bar/75)
+# coursera-machine-learning ![Progress](http://progressed.io/bar/88)
 
 This repository contains the weekly MATLAB assignments that I did in [Machine Learning](https://www.coursera.org/learn/machine-learning/) course in Coursera.
 
@@ -71,7 +71,17 @@ Email Preprocessing |  25 /  25 | Nice work!
 Email Feature Extraction |  25 /  25 | Nice work!
                          | 100 / 100 |
 
+### Exercise 7 in Week 8
 
-### Exercise 7 to 8
+Part Name |     Score | Feedback
+:---:|:---:|:---:
+Find Closest Centroids (k-Means) |  30 /  30 | Nice work!
+Compute Centroid Means (k-Means) |  30 /  30 | Nice work!
+PCA |  20 /  20 | Nice work!
+Project Data (PCA) |  10 /  10 | Nice work!
+Recover Data (PCA) |  10 /  10 | Nice work!
+                   | 100 / 100 | 
+
+### Exercise 8
 
 *unstarted*
