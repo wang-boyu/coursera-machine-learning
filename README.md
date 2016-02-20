@@ -84,4 +84,4 @@ Recover Data (PCA) |  10 /  10 | Nice work!
 
 ### Exercise 8
 
-*unstarted*
+*in progress*
