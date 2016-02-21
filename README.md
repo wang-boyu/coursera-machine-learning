@@ -92,4 +92,4 @@ Collaborative Filtering Cost |  20 /  20 | Nice work!
 Collaborative Filtering Gradient |  30 /  30 | Nice work!
 Regularized Cost |  10 /  10 | Nice work!
 Regularized Gradient |  10 /  10 | Nice work!
-                     | 100 / 100 | 
+                     | 100 / 100 |
