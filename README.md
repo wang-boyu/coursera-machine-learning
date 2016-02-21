@@ -1,4 +1,4 @@
-# coursera-machine-learning ![Progress](http://progressed.io/bar/88)
+# coursera-machine-learning ![Progress](http://progressed.io/bar/100)
 
 This repository contains the weekly MATLAB assignments that I did in [Machine Learning](https://www.coursera.org/learn/machine-learning/) course in Coursera.
 
@@ -80,8 +80,16 @@ Compute Centroid Means (k-Means) |  30 /  30 | Nice work!
 PCA |  20 /  20 | Nice work!
 Project Data (PCA) |  10 /  10 | Nice work!
 Recover Data (PCA) |  10 /  10 | Nice work!
-                   | 100 / 100 | 
+                   | 100 / 100 |
 
-### Exercise 8
+### Exercise 8 in Week 9
 
-*unstarted*
+Part Name |     Score | Feedback
+:---:|:---:|:---:
+Estimate Gaussian Parameters |  15 /  15 | Nice work!
+Select Threshold |  15 /  15 | Nice work!
+Collaborative Filtering Cost |  20 /  20 | Nice work!
+Collaborative Filtering Gradient |  30 /  30 | Nice work!
+Regularized Cost |  10 /  10 | Nice work!
+Regularized Gradient |  10 /  10 | Nice work!
+                     | 100 / 100 | 
